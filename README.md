@@ -18,6 +18,35 @@ Install my-project with HTTPS
 ```bash
   https://github.com/arpan-mondal/Docker_Babystep_Project01.git
 ```
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/arpan-mondal/Docker_Babystep_Project01
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
     
 
 
