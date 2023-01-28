@@ -121,9 +121,6 @@ What did you learn while building this project? What challenges did you face and
 
 - Write about what you learnt on the [lesson.txt] file with your name and mail address.
 
-## Feedback
-
-If you have any feedback, please reach out to us at accesstoarpan@gmail.com
 
 
 
